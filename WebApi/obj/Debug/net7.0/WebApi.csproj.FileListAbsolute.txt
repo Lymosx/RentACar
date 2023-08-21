@@ -84,3 +84,8 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\r
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.pdb
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Humanizer.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
