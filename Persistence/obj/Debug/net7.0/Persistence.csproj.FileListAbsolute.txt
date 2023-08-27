@@ -19,3 +19,5 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

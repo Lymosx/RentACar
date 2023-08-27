@@ -17,3 +17,5 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

@@ -68,7 +68,6 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\W
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
-F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
@@ -90,3 +89,8 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\M
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs

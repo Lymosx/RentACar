@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TAQptWgLTVksgzqn4tdON5ZR3RgN1hn1Ca5VqR3Siwvjm2bpYKjvp3uIpNHFmHSslT1Hm14ABgdjOMasmhIS+w==",
+  "dgSpecHash": "3vHtjqwJ6F5qxZMoC2LLZy9OwqdDbxK1/c5SQqazg8iud7slcRhMwtMggOjqICV/PB/a6Q6Tv8jc2VIZzW0M3w==",
   "success": true,
   "projectFilePath": "F:\\Github repo\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\Akif\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Akif\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Akif\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
