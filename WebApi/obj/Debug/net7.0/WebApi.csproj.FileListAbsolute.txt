@@ -94,3 +94,10 @@ F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\C
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\StackExchange.Redis.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+F:\Github repo\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
