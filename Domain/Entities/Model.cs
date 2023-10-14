@@ -32,7 +32,5 @@ public class Model : Entity<Guid>
         Name = name;
         DailyPrice = dailyPrice;
         ImageUrl = imageUrl;
-
     }
-
 }
